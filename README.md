@@ -2,7 +2,7 @@
 
 ## Pré-requisitos
 
-### Linux
+### Ubuntu
 
 1. Git
 
